@@ -1,2 +1,2 @@
 # PROJECTS
-I am designing a webpage that uses HTML and CSS!
+I designed a Landing page using fundamentals of HTML and CSS
